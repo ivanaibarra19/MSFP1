@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Ivana Valeria Ibarra Monroy 2321079; l23210709@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
